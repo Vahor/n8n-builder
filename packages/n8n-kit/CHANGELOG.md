@@ -1,5 +1,11 @@
 # @vahor/n8n-kit
 
+## 0.1.3
+
+### Patch Changes
+
+- [#42](https://github.com/Vahor/n8n-kit/pull/42) [`57a65e3`](https://github.com/Vahor/n8n-kit/commit/57a65e3ce8c00c14f2a7ce2abb0648f88040bb0b) Thanks [@Vahor](https://github.com/Vahor)! - remove default value for Id in generated nodes
+
 ## 0.1.2
 
 ### Patch Changes

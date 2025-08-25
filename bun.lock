@@ -51,7 +51,7 @@
     },
     "packages/n8n-cli": {
       "name": "@vahor/n8n-kit-cli",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "bin": {
         "@vahor/n8n": "./dist/index.js",
       },
@@ -72,7 +72,7 @@
     },
     "packages/n8n-kit": {
       "name": "@vahor/n8n-kit",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "dependencies": {
         "@dagrejs/dagre": "^1.1.5",
         "arktype": "catalog:",
@@ -89,6 +89,11 @@
         "typescript": "catalog:",
       },
     },
+  },
+  "catalog": {
+    "arktype": "^2.1.20",
+    "tsdown": "^0.14.1",
+    "typescript": "^5.9.2",
   },
   "packages": {
     "@actions/core": ["@actions/core@1.11.1", "", { "dependencies": { "@actions/exec": "^1.1.1", "@actions/http-client": "^2.0.1" } }, "sha512-hXJCSrkwfA46Vd9Z3q4cpEpHB1rL5NG04+/rbqW9d3+CSvtB1tYe8UTpAlixa1vj0m/ULglfEK2UKxMGxCxv5A=="],
